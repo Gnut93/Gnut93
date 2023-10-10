@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnut93" alt="gnut93" /></a> </p>
 
-- ⚡ Fun fact **"hello worl"**
+- ⚡ Fun fact **"hello world"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
